@@ -1,2 +1,3 @@
 # ThinkToAct
-传统观念的前端实现
+
++ periodicTableOfElement.vue 元素周期表的使用Vue3 JavaScript的简单实现
